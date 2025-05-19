@@ -61,13 +61,6 @@ Com isso, o programa iniciará com o Windows e já começará a gravar automatic
 
 ---
 
-## 📂 Estrutura esperada
-📁 Pasta do aplicativo
-├── GravadorDeTela.exe
-└── ffmpeg.exe
-
----
-
 ## 📄 Licença
 
 Uso livre para fins pessoais e acadêmicos. Para usos comerciais, entre em contato com o autor.
