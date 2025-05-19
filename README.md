@@ -1,6 +1,13 @@
-# Gravador de Tela (Delphi + FFmpeg)
+# 🎥 Gravador de Tela - Delphi 12 + FFmpeg
 
-Aplicativo leve e funcional para gravação contínua da tela do Windows. Desenvolvido em **Delphi** com uso do **FFmpeg**, o programa permite gravar qualquer monitor do sistema com divisão automática de vídeos, limpeza programada e execução na bandeja do sistema.
+> Aplicativo leve e funcional desenvolvido em Delphi 12 para gravação contínua da tela do Windows com corte automático e manutenção de arquivos.
+
+---
+
+## 📦 Download
+
+🔽 **[Clique aqui para baixar o GravadorDeTela.exe](https://github.com/Thalikbussacro/gravador-de-tela-delphi-12/releases/download/v1.0.0/GravadorDeTela.exe)**  
+Versão: **v1.0.0**
 
 ---
 
